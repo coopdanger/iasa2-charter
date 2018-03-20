@@ -1,3 +1,5 @@
+[TBD: WG name]
+
 The arrangements relating to administrative support for the IETF (referred to
 as the "IETF Administrative Support Activity" (IASA) [RFC4071]) were created
 more than ten years ago, when the IETF initially took charge of its own
@@ -44,3 +46,5 @@ scope of this working group to consider any changes to anything related to
 the oversight or steering of the standards process as currently conducted by
 the IESG and IAB, the appeal chain, the confirming bodies for existing IETF
 and IAB appointments, or the IRTF.
+
+[TBD: milestones]
