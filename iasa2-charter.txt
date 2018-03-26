@@ -33,7 +33,7 @@ ISOC supports this plan.
 This working group is chartered to document the normative changes to IETF
 administrative structures and processes necessary to effectuate this change.
 The main
-deliverable will be a document that obsoletes BCP 101. The working group may
+deliverable will be a document that obsoletes RFC 4071. The working group may
 produce other supporting documents as necessary to achieve its charter
 objective. In parallel, the legal documents necessary to establish the LLC
 will be developed outside the working group with the support of legal
