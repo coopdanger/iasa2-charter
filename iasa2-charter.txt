@@ -39,7 +39,7 @@ objective. In parallel, the legal documents necessary to establish the LLC
 will be developed outside the working group with the support of legal
 counsel. These documents will not be products of the working group, but this
 working group will be the venue where these documents will be presented to
-the IETF community for review and discussion before they are finalized.
+the IETF community for review and discussion before they are finalized. Final versions of these documents may be published as RFCs for archival purposes.
 
 Aside from instances where they presently relate to IASA, it is outside the
 scope of this working group to consider any changes to anything related to
