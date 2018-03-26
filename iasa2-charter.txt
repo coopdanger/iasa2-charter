@@ -45,6 +45,6 @@ Aside from instances where they presently relate to IASA, it is outside the
 scope of this working group to consider any changes to anything related to
 the oversight or steering of the standards process as currently conducted by
 the IESG and IAB, the appeal chain, the confirming bodies for existing IETF
-and IAB appointments, or the IRTF.
+and IAB appointments, the IRTF, or ISOC's memberships in other organizations.
 
 [TBD: milestones]
