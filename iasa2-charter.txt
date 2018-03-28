@@ -1,4 +1,4 @@
-[TBD: WG name]
+IASA2
 
 The arrangements relating to administrative support for the IETF (referred to
 as the "IETF Administrative Support Activity" (IASA) [RFC4071]) were created
@@ -8,7 +8,7 @@ there have been considerable changes in the size and scope of the IASA work,
 in the world around the IETF, and in the IETF community's own expectations
 since the creation of IASA.
 
-As documented in [draft-haberman-iasa20dt-recs-01], the current
+As documented in [draft-haberman-iasa20dt-recs], the current
 administrative arrangements are facing a number of challenges. The range of
 IETF administrative tasks have grown considerably; the IASA organizational
 structure is not as clear, efficient, or as fully resourced as it should be;
@@ -24,19 +24,17 @@ future arrangements, options for the legal structure of future arrangements,
 and options for the organizational structure of future arrangements.
 
 For legal purposes, IASA is currently organized as an activity of ISOC. Among
-multiple legal structure options considered by the IETF community, the
-community has elected to create a new limited liability corporation (LLC)
-that is a disregarded entity of ISOC (i.e., it is treated as a branch or
-division of ISOC for tax purposes) to house the administration of the IETF.
-ISOC supports this plan.
+multiple legal structure options considered by the IETF community, a new
+limited liability corporation (LLC) that is a disregarded entity of ISOC
+(i.e., it is treated as a branch or division of ISOC for tax purposes) will
+be created to house the administration of the IETF. ISOC supports this plan.
 
 This working group is chartered to document the normative changes to IETF
 administrative structures and processes necessary to effectuate this change.
-The main
-deliverable will be a document that obsoletes RFC 4071. The working group may
-produce other supporting documents as necessary to achieve its charter
-objective. In parallel, the legal documents necessary to establish the LLC
-will be developed outside the working group with the support of legal
+The main deliverable will be a document that obsoletes RFC 4071. The working
+group will produce other supporting documents as necessary to achieve its
+charter objective. In parallel, the legal documents necessary to establish
+the LLC will be developed outside the working group with the support of legal
 counsel. These documents will not be products of the working group, but this
 working group will be the venue where these documents will be presented to
 the IETF community for review and discussion before they are finalized. 
@@ -47,4 +45,6 @@ the oversight or steering of the standards process as currently conducted by
 the IESG and IAB, the appeal chain, the confirming bodies for existing IETF
 and IAB appointments, the IRTF, or ISOC's memberships in other organizations.
 
-[TBD: milestones]
+Milestones:
+November 2018 - Document obsoleting RFC 4071 sent to IESG
+November 2018 - Document obsoleting RFC 4371 sent to IESG
